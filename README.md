@@ -44,7 +44,7 @@ This document will be referenced widely when planning activities and when we loo
 | ---------------- |:-------------------| :--------:|:--------------------------|
 | Workshop to introduce students to Open Source  | Teach what is OpenSource, OpenWeb, Webliteracy | August 20th | |
 | | Teach about open source projects and build one | August 20th | |
-| | Mini web development workshop | August 20th | Hrishikesh Barman |
+| | Mini web development workshop | August 20th | |
 |                                                |                                     | August 25th   | |
 | Run high quality activities that teach web literacy| centered      |   |
 |  |   |   |
