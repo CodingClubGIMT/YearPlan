@@ -25,14 +25,18 @@ This document will be referenced widely when planning activities and when we loo
 |                   |   Make club decisions along with executive members to avoid decision clash                                     | |
 |                   |   Hold weekly events/meetings to keep in good contact with all the club members                                | |
 |                   |                                                                                                                | |
-| Teach The Web     |   Run high quality activities to teach web literacy                                                      |10 |
-|                   |   Run workshops to introduce use of open source in daily life                                                  | |
-|                   |   Run fun activites to teach students to break
-
+| Teach The Web     |   Run high quality activities to teach web literacy                                                            |10|
+|                   |   Run workshops to introduce the use of open source in daily life                                                  | |
+|                   |   Run fun activities to teach and learn the latest and greatest open source technologies | |
+|                   |   Run fun activites to teach students to break and fix open source and eventually contribute                   | |
 |                   |                                                                                                                | |
-| Build The Web     |   Hackathons                                                                                                             | |
+| Build The Web     |   Hackathons                                                                                                   | |
+|                   |   Run bug traige and testing days on various open source projects                                              | |
+|                   |   Motivate students to build their own open source projects                                                    | |
 |                   |                                                                                                                | |
-| Protect The Web   |                                                                                                                | |
+| Protect The Web   |   Run workshops on security                                                                                    | |
+|                   |   Organize seminars on online safety by local security researchers                                             | |
+|                   |   Organize seminars on online safety by local security researchers                                             | |
 
 ## Objective	Tasks	Road Map	Responsibility/Resources
 
