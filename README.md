@@ -10,7 +10,7 @@ This document will be referenced widely when planning activities and when we loo
 * Will run events, seminars, presentations to spread awareness about open source and its benifits
 * Will be the most active club on campus.
 * Will make sure that atleast 50% of the students in college know about Webliteracy
-* Will teach students different ways to cotribute to open source
+* Will teach students different ways to contribute to open source
 * Will be teaching students how to protect themselves on the web
 
 ## Goals
