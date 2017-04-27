@@ -42,8 +42,10 @@ This document will be referenced widely when planning activities and when we loo
 
 | Objective        | Tasks              | Timeline  |  Responsibility/Resources |
 | ---------------- |:-------------------| :--------:|:--------------------------|
-| Workshop to introduce students to Open Source  | Teach what is open source, open web | August 20th | Hrishikesh Barman |
-|                                                |                                     | August 25th   | Bhargav Hazarika  |
+| Workshop to introduce students to Open Source  | Teach what is OpenSource, OpenWeb, Webliteracy | August 20th | |
+| | Teach about open source projects and build one | August 20th | |
+| | Mini web development workshop | August 20th | Hrishikesh Barman |
+|                                                |                                     | August 25th   | |
 | Run high quality activities that teach web literacy| centered      |   |
 |  |   |   |
 
