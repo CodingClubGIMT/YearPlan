@@ -34,17 +34,16 @@ This document will be referenced widely when planning activities and when we loo
 |                   |   Run bug traige and testing days on various open source projects                                              | |
 |                   |   Motivate students to build their own open source projects                                                    | |
 |                   |                                                                                                                | |
-| Protect The Web   |   Run workshops on security                                                                                    | |
+| Protect The Web   |   Run workshops on security in real life                                                                       | |
 |                   |   Organize seminars on online safety by local security researchers                                             | |
-|                   |   Organize seminars on online safety by local security researchers                                             | |
+|                   |   Show use of alternative safer technologies in cases of email, storage etc                                    | |
 
 ## Objective	Tasks	Road Map	Responsibility/Resources
 
-<!-- This is where you get even more specific about what needs to happen, by when and by whom to realize your Club goals and objective. here, each area of work becomes an objective -->
 | Objective        | Tasks              | Timeline  |  Responsibility/Resources |
 | ---------------- |:-------------------| :--------:|:--------------------------|
-| Run high quality member education activities  |Poll members to find area of greatest interest  | Sept 10th | Jon Doe |
-|                                               |Source training materials for activities  |Sept 20th | Jon Doe |
+| Workshop to introduce students to Open Source  | Teach what is open source, open web | August 20th | Hrishikesh Barman |
+|                                                |                                     | August 25th   | Bhargav Hazarika  |
 | Run high quality activities that teach web literacy| centered      |   |
 |  |   |   |
 
