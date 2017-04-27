@@ -25,10 +25,12 @@ This document will be referenced widely when planning activities and when we loo
 |                   |   Make club decisions along with executive members to avoid decision clash                                     | |
 |                   |   Hold weekly events/meetings to keep in good contact with all the club members                                | |
 |                   |                                                                                                                | |
-| Teach The Web     |   Run high quality activities that teach web literacy                                                      |10 attendees |
-|                   |   Run high quality activities that teach web literacy                                                          | |
+| Teach The Web     |   Run high quality activities to teach web literacy                                                      |10 |
+|                   |   Run workshops to introduce use of open source in daily life                                                  | |
+|                   |   Run fun activites to teach students to break
+
 |                   |                                                                                                                | |
-| Build The Web     |                                                                                                                | |
+| Build The Web     |   Hackathons                                                                                                             | |
 |                   |                                                                                                                | |
 | Protect The Web   |                                                                                                                | |
 
