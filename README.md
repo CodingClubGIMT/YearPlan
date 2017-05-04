@@ -3,7 +3,11 @@ This document will be referenced widely when planning activities and when we loo
 
 # Working Year Plan  - GIMT Coding Club, 2017
 
-## Key Aspirations
+## Mission Statements
+- To create a community of open source enthusiasts to teach, learn and build together
+- To raise awareness in web literacy and privacy
+
+## Key Aspirations for 2017
 
 * Will be building, learning and teaching each other through open source technologies throughout the year.
 * Will run learning workshop every week
@@ -43,8 +47,8 @@ This document will be referenced widely when planning activities and when we loo
 | Objective        | Tasks              | Timeline  |  Responsibility/Resources |
 | ---------------- |:-------------------| :--------:|:--------------------------|
 | Workshop to introduce students to Open Source  | Teach what is OpenSource, OpenWeb, Webliteracy | August 20th | |
-| | Teach about open source projects and build one | August 20th | |
-| | Mini web development workshop | August 20th | |
+| | Presentation about open source projects and build one | August 20th | |
+| | Web development workshop | August 20th | |
 |                                                |                                     | August 25th   | |
 | Run high quality activities that teach web literacy| centered      |   |
 |  |   |   |
