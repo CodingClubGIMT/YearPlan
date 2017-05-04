@@ -55,4 +55,10 @@ This document will be referenced widely when planning activities and when we loo
 | Run high quality activities to teach web literacy *(This will be run in parts throught the year)*| Start with the what and end with the how and the Web Literacy Map |   |
 | | build a project to teach web literacy |   |
 | | Learn about WebAdvocacy, Privacy and net neutrality |   |
-| Workshop on building things and contributing to OpenSource | |   |
+| Workshop on building things and contributing to OpenSource | Show the different ways we can contribute to OpenSource with and without programming skills |   |
+| | Build a useful and fun project together |   |
+| | Everyone in the club builds their own fun project and puts it up on their github repo |   |
+| | Contribution Day: Everyone in the club contributes to OpenSource |   |
+| Hackathon: Build a fun and useful project for the open web | |   |
+| Virtual Reality Workshop with A-frame | Show how VR works |   |
+| | Do workshop on simple WebVR Projects |   |
