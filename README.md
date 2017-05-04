@@ -62,4 +62,6 @@ This document will be referenced widely when planning activities and when we loo
 | Hackathon: Build a fun and useful project for the open web | |   |
 | Virtual Reality Workshop with A-frame | Show how VR works |   |
 | | Do workshop on simple WebVR Project with A-Frame |   |
-| Do awareness capaign on online security and privacy | |   |
+| Do awareness capaign on online security and privacy | Security 101 |   |
+| | Encryption and keeping your data encrypted |   |
+| | Myths about security |   |
