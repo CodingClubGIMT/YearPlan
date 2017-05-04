@@ -61,4 +61,5 @@ This document will be referenced widely when planning activities and when we loo
 | | Contribution Day: Everyone in the club contributes to OpenSource |   |
 | Hackathon: Build a fun and useful project for the open web | |   |
 | Virtual Reality Workshop with A-frame | Show how VR works |   |
-| | Do workshop on simple WebVR Projects |   |
+| | Do workshop on simple WebVR Project with A-Frame |   |
+| Do awareness capaign on online security and privacy | |   |
