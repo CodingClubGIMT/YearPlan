@@ -22,16 +22,16 @@ This document will be referenced widely when planning activities and when we loo
 
 | Areas of Work     | Club Goals              | Numbers |
 | ---------------   |:-------------------------| :------:|
-| Member Education  | Run educational workshop on using and contributing to opensource |3|
-|                   | Run pair programming sessions to build for open source |3|
-|                   | Run workskhops specially for setting up the open source ecosystem, linux, git etc |3|
+| Member Education  | Run educational workshop on using and contributing to opensource ||
+|                   | Run pair programming sessions to build for open source ||
+|                   | Run workskhops specially for setting up the open source ecosystem, linux, git etc ||
 |                   |                                                                                                                | |
 | Membership Building | Work together with club members to solve problems                                                            | |
 |                   |   Make club decisions along with executive members to avoid decision clash                                     | |
 |                   |   Hold weekly events/meetings to keep in good contact with all the club members                                | |
 |                   |                                                                                                                | |
-| Teach The Web     |   Run high quality activities to teach web literacy                                                            |10|
-|                   |   Run workshops to introduce the use of open source in daily life                                                  | |
+| Teach The Web     |   Run high quality activities to teach web literacy                                                            | |
+|                   |   Run workshops to introduce the use of open source in daily life                                              | |
 |                   |   Run fun activities to teach and learn the latest and greatest open source technologies | |
 |                   |   Run fun activites to teach students to break and fix open source and eventually contribute                   | |
 |                   |                                                                                                                | |
@@ -49,9 +49,10 @@ This document will be referenced widely when planning activities and when we loo
 | ---------------- |:-------------------| :--------:|:--------------------------|
 | Workshop to introduce students to Open Source  | Teach what is OpenSource, OpenWeb, Webliteracy | August | |
 | | Presentation on open source projects and build one | August | |
-| | Web development workshop | August | |
-| Run high quality activities to teach web literacy (This will be run in parts throught the year)| Start with the what and end with the how and the Web Literacy Map |   |
-| |   |   |
-
-
-
+| | Using open source in daily life | August | |
+| | Introduction to git | August | |
+| | Web development workshop, build project (Game?) | August | |
+| Run high quality activities to teach web literacy *(This will be run in parts throught the year)*| Start with the what and end with the how and the Web Literacy Map |   |
+| | build a project to teach web literacy |   |
+| | Learn about WebAdvocacy, Privacy and net neutrality |   |
+| Workshop on building things and contributing to OpenSource | |   |
