@@ -6,6 +6,7 @@ This document will be referenced widely when planning activities and when we loo
 ## Mission Statements
 - To create a community of open source enthusiasts to teach, learn and build together
 - To raise awareness in web literacy and privacy
+- To have fun :boom: :tada:
 
 ## Key Aspirations for 2017
 
@@ -46,12 +47,11 @@ This document will be referenced widely when planning activities and when we loo
 
 | Objective        | Tasks              | Timeline  |  Responsibility/Resources |
 | ---------------- |:-------------------| :--------:|:--------------------------|
-| Workshop to introduce students to Open Source  | Teach what is OpenSource, OpenWeb, Webliteracy | August 20th | |
-| | Presentation about open source projects and build one | August 20th | |
-| | Web development workshop | August 20th | |
-|                                                |                                     | August 25th   | |
-| Run high quality activities that teach web literacy| centered      |   |
-|  |   |   |
+| Workshop to introduce students to Open Source  | Teach what is OpenSource, OpenWeb, Webliteracy | August | |
+| | Presentation on open source projects and build one | August | |
+| | Web development workshop | August | |
+| Run high quality activities to teach web literacy (This will be run in parts throught the year)| Start with the what and end with the how and the Web Literacy Map |   |
+| |   |   |
 
 
 
