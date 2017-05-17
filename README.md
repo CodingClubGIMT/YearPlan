@@ -29,16 +29,16 @@ This document will be referenced widely when planning activities and when we loo
 | Membership Building | Work together with club members to solve problems                                                            |5|
 |                   |   Make club decisions along with executive members to avoid decision clash                                     |5|
 |                   |   Hold weekly events/meetings to keep in good contact with all the club members                                |5|
-|                   |                                                                                                                |5|
+|                   |                                                                                                                | |
 | Teach The Web     |   Run high quality activities to teach web literacy                                                            |5|
 |                   |   Run workshops to introduce the use of open source in daily life                                              |5|
 |                   |   Run fun activities to teach and learn the latest and greatest open source technologies |5|
 |                   |   Run fun activites to teach students to break and fix open source and eventually contribute                   |5|
-|                   |                                                                                                                |5|
+|                   |                                                                                                                | |
 | Build The Web     |   Hackathons                                                                                                   |5|
 |                   |   Run bug traige and testing days on various open source projects                                              |5|
 |                   |   Motivate students to build their own open source projects                                                    |5|
-|                   |                                                                                                                |5|
+|                   |                                                                                                                | |
 | Protect The Web   |   Run workshops on security in real life                                                                       |5|
 |                   |   Organize seminars on online safety by local security researchers                                             |5|
 |                   |   Show use of alternative safer technologies in cases of email, storage etc                                    |5|
@@ -47,7 +47,7 @@ This document will be referenced widely when planning activities and when we loo
 
 | Objective        | Tasks              | Timeline  |  Responsibility/Resources |
 | ---------------- |:-------------------| :--------:|:--------------------------|
-| Workshop to introduce students to Open Source  | Teach what is OpenSource, OpenWeb, Webliteracy | August | |
+| Workshop to introduce students to Open Source  | Teach what is OpenSource, OpenWeb, Webliteracy | August | Hrishikesh |
 | | Presentation on open source projects and build one | August | |
 | | Using open source in daily life | August | |
 | | Introduction to git | August | |
@@ -55,12 +55,12 @@ This document will be referenced widely when planning activities and when we loo
 | Run high quality activities to teach web literacy *(This will be run in parts throught the year)*| Start with the what and end with the how and the Web Literacy Map | September |
 | | build a learning project to teach web literacy | September  |
 | | Learn about WebAdvocacy, Privacy and net neutrality | September |
-| Workshop on building things and contributing to OpenSource | Show the different ways we can contribute to OpenSource with and without programming skills |  September |
+| Workshop on building things and contributing to OpenSource | Show the different ways we can contribute to OpenSource with and without programming skills |  October |
 | | Build a useful and fun project together | October  |
 | | Interested students in the club builds their own project and put it up on their github repo | October |
 | | Contribution Day: Everyone in the club contributes to OpenSource | October |
-| Hackathon: Build a fun and useful project for the open web | November |   |
-| College Final Exams | |   |
+| Hackathon: Build a fun and useful project for the open web | A intra-college hackathon to build for the open web | November  |
+| College Final Exams | | December  |
 | Virtual Reality Workshop with A-frame | Show how VR works | January |
 | | Do workshop on simple WebVR Project with A-Frame | February  |
 | Do awareness capaign on online security and privacy | Security 101 | February |
