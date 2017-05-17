@@ -22,26 +22,28 @@ This document will be referenced widely when planning activities and when we loo
 
 | Areas of Work     | Club Goals              | Numbers |
 | ---------------   |:-------------------------| :------:|
-| Member Education  | Run educational workshop on using and contributing to opensource |5|
-|                   | Run pair programming sessions to build for open source |5|
-|                   | Run workskhops specially for setting up the open source ecosystem, linux, git etc |5|
+| Member Education  | Run educational workshop on using and contributing to opensource                                               |5|
+|                   | Run pair programming sessions to build for open source                                                         |5|
+|                   | Run workskhops specially for setting up the open source ecosystem, linux, git etc                              |5|
 |                   |                                                                                                                | |
 | Membership Building | Work together with club members to solve problems                                                            |5|
 |                   |   Make club decisions along with executive members to avoid decision clash                                     |5|
-|                   |   Hold weekly events/meetings to keep in good contact with all the club members                                |5|
+|                   |   Hold weekly events/meetings to keep in good contact with all the club members                                |10|
 |                   |                                                                                                                | |
 | Teach The Web     |   Run high quality activities to teach web literacy                                                            |5|
 |                   |   Run workshops to introduce the use of open source in daily life                                              |5|
-|                   |   Run fun activities to teach and learn the latest and greatest open source technologies |5|
-|                   |   Run fun activites to teach students to break and fix open source and eventually contribute                   |5|
+|                   |   Run fun activities to teach and learn the latest and greatest open source technologies                       |5|
+|                   |   Run fun activites to teach students to break and fix open source and eventually contribute                   |10|
 |                   |                                                                                                                | |
-| Build The Web     |   Hackathons                                                                                                   |5|
+| Build The Web     |   Hackathons                                                                                                   |10|
 |                   |   Run bug traige and testing days on various open source projects                                              |5|
-|                   |   Motivate students to build their own open source projects                                                    |5|
+|                   |   Motivate students to build their own open source projects                                                    |10|
 |                   |                                                                                                                | |
-| Protect The Web   |   Run workshops on security in real life                                                                       |5|
+| Protect The Web   |   Run workshops on online security and privacy                                                                 |5|
 |                   |   Organize seminars on online safety by local security researchers                                             |5|
 |                   |   Show use of alternative safer technologies in cases of email, storage etc                                    |5|
+| Total     | |  100 |
+| ---------------   |:-------------------------| :------:|
 
 ## Objective	Tasks	Road Map	Responsibility/Resources
 
