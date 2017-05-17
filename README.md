@@ -43,10 +43,10 @@ This document will be referenced widely when planning activities and when we loo
 |                   |   Organize seminars on online safety by local security researchers                                             |5|
 |                   |   Show use of alternative safer technologies in cases of email, storage etc                                    |5|
 | Total     | |  100 |
-| ---------------   |:-------------------------| :------:|
 
 ## Objective	Tasks	Road Map	Responsibility/Resources
-
+*(Responsibility and Resources will be added as soon as the executive team members are selected)*
+**This YearPlan will be starting from August 2017 to April 2018**
 | Objective        | Tasks              | Timeline  |  Responsibility/Resources |
 | ---------------- |:-------------------| :--------:|:--------------------------|
 | Workshop to introduce students to Open Source  | Teach what is OpenSource, OpenWeb, Webliteracy | August | Hrishikesh |
