@@ -58,6 +58,7 @@ This document will be referenced widely when planning activities and when we loo
 | | Web development workshop, build project (Game?) | September | |
 | Run high quality activities to teach web literacy *(This will be run in parts throught the year)*| Start with the what and end with the how and the Web Literacy Map | September |
 | | build a learning project to teach web literacy | September  |
+| | WebExtension/firefox | September | |
 | | Learn about WebAdvocacy, Privacy and net neutrality | September |
 | Workshop on building things and contributing to OpenSource | Show the different ways we can contribute to OpenSource with and without programming skills |  October |
 | | Build a useful and fun project together | October  |
